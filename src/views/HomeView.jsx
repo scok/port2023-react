@@ -10,18 +10,18 @@ import Skip from "../components/Skip";
 import Main from "../components/Main";
 
 const HomeView = () => {
-    return(
+    return (
         <>
-            <Skip/>
-            <Header/>
+            <Skip />
+            <Header />
             <Main>
-                <Intro/>
-                <Skill/>
-                <Site/>
-                <Port/>
-                <Contact/>
+                <Intro />
+                <Skill />
+                <Site />
+                <Port />
+                <Contact />
             </Main>
-            <Footer/>
+            <Footer />
         </>
     );
 };
